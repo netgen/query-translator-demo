@@ -1,0 +1,10 @@
+{
+    "name": "netgen/query-translator-demo",
+    "description": "A demo for the Query Translator library",
+    "homepage": "https://github.com/netgen/query-translator",
+    "license": "MIT",
+    "require": {
+        "netgen/query-translator": "^1.0",
+        "php": "^7.0"
+    }
+}
